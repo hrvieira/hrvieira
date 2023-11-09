@@ -13,6 +13,7 @@
 <code>![CSS3](https://img.shields.io/badge/CSS3-357?style=for-the-badge&logo=css3&logoColor=fff)</code>
 <code>![JavaScript](https://img.shields.io/badge/JavaScript-357?style=for-the-badge&logo=javascript&logoColor=fff)</code>
 <code>![Python](https://img.shields.io/badge/Python-357?style=for-the-badge&logo=python&logoColor=fff)</code>
+<code>![Java](https://img.shields.io/badge/Java-357?style=for-the-badge&logo=java&logoColor=fff)</code>
 <code>![Git](https://img.shields.io/badge/Git-357?style=for-the-badge&logo=git&logoColor=fff)</code>
 <code>![GitHub](https://img.shields.io/badge/GitHub-357?style=for-the-badge&logo=github&logoColor=fff)</code>
 
